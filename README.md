@@ -137,30 +137,6 @@ The roadmap emphasizes proficiency in a wide array of tools and technologies cru
 * Terraform
 * Excalidraw
 
-## Community & Networking
-
-The roadmap encourages both local and global networking:
-
-* **Local (Lahore):** Check Meetup & Eventbrite for events. Network with professionals from Arbisoft, Techlogix, Netsol. Attend seminars at LUMS, FAST, and ITU.
-* **Global:** Connect with engineers at top tech companies via LinkedIn and virtual events. Contribute to open-source projects for visibility.
-
-## Usage
-
-To use this roadmap:
-
-1.  **Clone the repository:**
-    ```bash
-    git clone [https://github.com/your-username/ai-engineer-roadmap.git](https://github.com/your-username/ai-engineer-roadmap.git)
-    cd ai-engineer-roadmap
-    ```
-2.  **Open the `real road map.html` file in your web browser.**
-    * You can simply double-click the file, or open it with your preferred browser.
-3.  **Start tracking your progress!**
-    * Click on the checkboxes next to each task to mark them as complete. Your progress will be saved locally in your browser's local storage.
-
-## Contributing
-
-We welcome contributions to enhance this roadmap! If you have suggestions for new phases, tasks, resources, or improvements to the existing content, please feel free to open an issue or submit a pull request.
 
 ## License
 
